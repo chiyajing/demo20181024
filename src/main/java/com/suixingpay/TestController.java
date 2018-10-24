@@ -14,6 +14,7 @@ public class TestController {
 
     @RequestMapping(value = "/list", method = {RequestMethod.GET})
     public String list() {
+        //TODO
      return "test";
     }
 }
