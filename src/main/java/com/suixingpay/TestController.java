@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(value = "/test")
 public class TestController {
 
-
+    //list
     @RequestMapping(value = "/list", method = {RequestMethod.GET})
     public String list() {
         //TODO
