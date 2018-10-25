@@ -14,7 +14,7 @@ public class TestController {
     //list sadfdasfdasfsad
     @RequestMapping(value = "/list", method = {RequestMethod.GET})
     public String list() {
- //TODOddd fixfsdaf
+            //TODOddd fixfsdaf
      return "test list";
 
     }
