@@ -15,8 +15,11 @@ public class TestController {
     @RequestMapping(value = "/list", method = {RequestMethod.GET})
     public String list() {
             //d f fixfsdaf fsadf
+<<<<<<< HEAD
 1111
 www
+=======
+>>>>>>> parent of 7a12f38... 提交3
      return "test list";
 
     }
