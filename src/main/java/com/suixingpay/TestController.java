@@ -15,6 +15,8 @@ public class TestController {
     @RequestMapping(value = "/list", method = {RequestMethod.GET})
     public String list() {
             //d f fixfsdaf fsadf
+            dfsdafddasdfd
+            辅导费、fixfsdaf
      return "test list";
 
     }
